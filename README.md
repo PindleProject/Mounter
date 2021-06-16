@@ -32,7 +32,7 @@ In general,the files and directories which is stored in the cloud storage will b
 ![Mounter](https://user-images.githubusercontent.com/85985225/122206138-ab6baa00-cebe-11eb-85e9-d22f6b82adad.gif)
 
 ### Help
-<li>No problem was acquinted till now</li>
+<li>For Help reach us at <a href>administrator@pindle.tech</a> 0r <a href>admin@pindle.tech</a></li>
 
 ### Version Release
 <li>1.0
