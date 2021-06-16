@@ -2,10 +2,10 @@
   <img width="200" src="https://user-images.githubusercontent.com/85985225/122205603-11a3fd00-cebe-11eb-9dad-46c949f62acc.png" alt="mounter logo">
 </p>
 <h1 align="center">Mounter</h1>
-<h2> Description <h2>
-To edit/access your files stored on the cloud storage you have to first access the web browser and login in to your account.The process of fetching data from online platforms is time consuming and inconvenient.Mounter will be helpful to all kinds of users having different work cultures who frequently use various cloud storage platforms such as Google Drive, OneDrive, iCloud, Dropbox, etc. and manage files through respective file managers provided by their Operating systems.
+<h2> Description</h2> 
+<p1>To edit/access your files stored on the cloud storage you have to first access the web browser and login in to your account.The process of fetching data from online platforms is time consuming and inconvenient.Mounter will be helpful to all kinds of users having different work cultures who frequently use various cloud storage platforms such as Google Drive, OneDrive, iCloud, Dropbox, etc. and manage files through respective file managers provided by their Operating systems.
 <p>&nbsp;</p>
-In general,the files and directories which is stored in the cloud storage will be mounted on the local file system directory which is selected bu the user. He/She doesn't have to access the web and all changes to the files(add/Delete/move)made in the loacl directory will be reflected on the cloud storage
+In general,the files and directories which is stored in the cloud storage will be mounted on the local file system directory which is selected bu the user. He/She doesn't have to access the web and all changes to the files(add/Delete/move)made in the loacl directory will be reflected on the cloud storage </p1>
 
 ## Getting Started
 ### Dependencies
