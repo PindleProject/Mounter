@@ -24,7 +24,7 @@ In general,the files and directories which is stored in the cloud storage will b
 <li>Launch the application</li>
 <li>Enter your Email ID</li>
 <li>Enter your Mount Point</li>
-<li>select mount</li>
+<li>Select Mount</li>
 <li>Check whether the files are mounted in the in the mount point given</li>
 
 ### Help
@@ -36,3 +36,5 @@ In general,the files and directories which is stored in the cloud storage will b
 - Initial Release
 </ol>
 </li>
+
+https://user-images.githubusercontent.com/85985225/122199556-c8e94580-ceb7-11eb-8461-457b7ca54200.mp4
