@@ -29,7 +29,10 @@ In general,the files and directories which is stored in the cloud storage will b
 <li>Enter your Email ID</li>
 <li>Enter your Mount Point</li>
 <li>Select Mount</li>
-<li>Check whether the files are mounted in the in the mount point given</li>
+<li>Check whether the files are mounted in the in the mount point given</li>  
+<p>&nbsp;</p>
+
+![Mounter](https://user-images.githubusercontent.com/85985225/122206138-ab6baa00-cebe-11eb-85e9-d22f6b82adad.gif)
 
 ### Help
 <li>No problem was acquinted till now</li>
@@ -41,6 +44,5 @@ In general,the files and directories which is stored in the cloud storage will b
 </ol>
 </li>
 
-![Mounter](https://user-images.githubusercontent.com/85985225/122206138-ab6baa00-cebe-11eb-85e9-d22f6b82adad.gif)
 
 
