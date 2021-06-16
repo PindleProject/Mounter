@@ -20,9 +20,9 @@ In general,the files and directories which is stored in the cloud storage will b
 </li>
 
 ### Installing
-<li>Visit our website:https://pindle.tech/</li>
-<li>Download the package for your respected OS</li>
-<li>Install the EXE file downloaded</li>
+<li>For Debian based system install:</li>
+<li>For Rhel based system install:</li>
+
 
 ### Executing Program
 <li>Launch the application</li>
