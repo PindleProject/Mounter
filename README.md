@@ -17,8 +17,8 @@ In general,the files and directories which is stored in the cloud storage will b
 </li>
 
 ### Installing
-<li>For Debian based system install:</li>
-<li>For Rhel based system install:</li>
+<li>For Debian based system install:<a href=https://github.com/PindleProject/Mounter/releases/download/v1.0/pindlemounter_1.0-1.deb>pindlemounter_1.0-1.deb</a></li>
+<li>For Rhel based system install:<a href=https://github.com/PindleProject/Mounter/releases/download/v1.0/pindlemounter-1.0-2.x86_64.rpm>pindlemounter-1.0-2.x86_64.rpm</a></li>
 
 
 ### Executing Program
